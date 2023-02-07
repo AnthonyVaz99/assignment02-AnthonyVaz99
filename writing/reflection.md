@@ -2,7 +2,7 @@
 ## Using Hugo and Netlify to Design an Online Research Notebook
 
 ## Name
-Anthony Vazquez
+AnthonyVazquez
 
 ## GitHub Account Name
 
